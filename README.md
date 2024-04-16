@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnshChoudhary
 - 👀 I’m interested in data science, machine learning, and creative web development.
-- 🌱 I’m currently learning front-end development with React/Angular as frameworks and data science using Python
+- 🌱 I’m currently learning about Large Language Models and other similar deep learning concepts.
 - 📫 How to reach me: mail - anshc19@gmail.com, instagram - ughhnsh.
 
 <!---
